@@ -1,0 +1,2 @@
+PyAutoGUI >= 0.9.53, <1
+hassapi >= 0.1.1, <1
