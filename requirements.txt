@@ -1,2 +1,3 @@
+pyyaml>=5.4.1, <6
 PyAutoGUI >= 0.9.53, <1
 hassapi >= 0.1.1, <1
